@@ -1,7 +1,10 @@
 import {sum,g} from "./math.js"
+import { generate} from "random-words";
 
-console.log(sum(6,4));
-console.log(g);
+console.log(generate());
+
+// console.log(sum(6,4));
+// console.log(g);
 
 
 // let args = process.argv;
