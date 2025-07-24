@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is neither a frameWork nor a programming language",
+  "homepage": "https://github.com/dineshsrisai/node#readme",
+  "bugs": {
+    "url": "https://github.com/dineshsrisai/node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshsrisai/node.git"
+  },
+  "license": "ISC",
+  "author": "DineshSriSai",
+  "type": "module",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  }
+}
