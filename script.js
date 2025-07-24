@@ -1,3 +1,9 @@
+import {sum,g} from "./math.js"
+
+console.log(sum(6,4));
+console.log(g);
+
+
 // let args = process.argv;
 // for(let i=2;i<args.length;i++){
 //     console.log("hello ",args[i]);
@@ -14,6 +20,6 @@
 // console.log(output.PI);
 
 
-const info = require("./fruits");
+// const info = require("./fruits");
 
-console.log(info);
+// console.log(info);
